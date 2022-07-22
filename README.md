@@ -27,3 +27,5 @@ The MIT License
 Contact me by clicking the below links:
 * [Github Link](https://github.com/deftonechris)
 * [Email Link](mailto:deftonechris@msn.com)
+
+![image](https://user-images.githubusercontent.com/103149149/180502476-bcfed4e4-b7a0-477c-a6ba-86675020fe35.png)
